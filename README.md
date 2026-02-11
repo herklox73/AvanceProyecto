@@ -9,11 +9,7 @@ Este repositorio contiene el avance del proyecto Bar Escolar. Esta versión demu
 - **Carrito de Compras:** Gestión de productos seleccionados para compra.
 - **Procesamiento de Pedidos:** Envío de pedidos a la base de datos.
 
-## Limitaciones de esta Versión
 
-- **Panel Administrativo:** No incluido en esta entrega.
-- **Historial de Pedidos:** No incluido en esta entrega.
-- **Pagos Reales:** Simulación de éxito.
 
 ## Instrucciones de Ejecución
 
